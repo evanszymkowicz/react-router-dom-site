@@ -1,4 +1,4 @@
-# SKYLINES
+# react-router-dom-site
 Minimalst website to practice working with React Router and SVG transitions
 
 
@@ -8,4 +8,3 @@ Rem instead of pixels to test accessibility guidelines </br>
 React router dom </br>
 SCSS </br>
 Media query grid
-# react-router-dom-site
