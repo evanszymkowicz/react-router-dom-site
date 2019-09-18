@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-router-dom-site/static/css/main.d0bb05ca.chunk.css",
+    "main.js": "/react-router-dom-site/static/js/main.d7e4c3a7.chunk.js",
+    "main.js.map": "/react-router-dom-site/static/js/main.d7e4c3a7.chunk.js.map",
+    "runtime~main.js": "/react-router-dom-site/static/js/runtime~main.3bb41b81.js",
+    "runtime~main.js.map": "/react-router-dom-site/static/js/runtime~main.3bb41b81.js.map",
+    "static/js/2.cf980c7f.chunk.js": "/react-router-dom-site/static/js/2.cf980c7f.chunk.js",
+    "static/js/2.cf980c7f.chunk.js.map": "/react-router-dom-site/static/js/2.cf980c7f.chunk.js.map",
+    "index.html": "/react-router-dom-site/index.html",
+    "precache-manifest.b0066727e6631e8e1b132d80d08082ff.js": "/react-router-dom-site/precache-manifest.b0066727e6631e8e1b132d80d08082ff.js",
+    "service-worker.js": "/react-router-dom-site/service-worker.js",
+    "static/css/main.d0bb05ca.chunk.css.map": "/react-router-dom-site/static/css/main.d0bb05ca.chunk.css.map",
+    "static/media/About.scss": "/react-router-dom-site/static/media/about-bg.67596e2f.jpg",
+    "static/media/Home.scss": "/react-router-dom-site/static/media/main-bg.e23d5928.jpg"
+  }
+}
